@@ -1,0 +1,53 @@
+body{
+background-image: url(images/wallpaper.jpg);
+}
+h1{
+    color:white ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    
+    margin-top: 20px;
+}
+h2{
+    color:black;
+    display: inline-block;
+    width: 100px;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+
+}
+.btn{
+    width: 80px;
+    height: 40px;
+    color: black;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.value{
+    
+   padding: 10px;
+   display: inline-flex;
+   justify-content: space-around;
+   justify-content: space-between;
+    
+}
+.copyright{
+    background-color: rgb(94, 91, 91);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+}
